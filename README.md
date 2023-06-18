@@ -12,6 +12,6 @@
 
 # List file:
 - _Processing_Data_LogContent.py_      ---->  Script python - ETL & Processing & Import Data LogContent to Azure Database.
-- _Processing_Data_LogSearch.ipynb_    ---->  Script python - ETL & Processing & Import Data LogSearch to Azure Database.
-- _process_log_search.py_              ---->  Explain script in jupyter Notebook - ETL & Processing & Import Data LogSearch to Azure Database.
+- _process_log_search.py_    ---->  Script python - ETL & Processing & Import Data LogSearch to Azure Database.
+- _Processing_Data_LogSearch.ipynb_              ---->  Explain script in jupyter Notebook - ETL & Processing & Import Data LogSearch to Azure Database.
 - _Phân Tích.docx_                     ---->  Report.
