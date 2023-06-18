@@ -7,7 +7,7 @@
 
 # Output:
 - ETL and process data from raw data to data can be analyzed.
-- Save Processed data to 4 table on Azure Database.
+- Save Processed data to 4 tables on Azure Database.
 - Analysis data --> write a report.
 
 # List file:
