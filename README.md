@@ -1,6 +1,6 @@
 # Processing-Data-Customer-ETL-Cloud
-- Data from an online media company.
 - Objective: Process, ETL raw data (~ 8,5 GB data log from users) into data that can be analyzed, save cleaned data in databases: Azure SQL Database, SQL Sever.
+- Data from an online media company.
 - Tech stack: PYSPARK, AZURE DATABASE.
   
 # INPUT: 
